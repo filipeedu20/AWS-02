@@ -1,0 +1,14 @@
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\teste2\LivrosApp\bin\Debug\netcoreapp2.2\LivrosApp.deps.json
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\teste2\LivrosApp\bin\Debug\netcoreapp2.2\LivrosApp.runtimeconfig.json
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\teste2\LivrosApp\bin\Debug\netcoreapp2.2\LivrosApp.runtimeconfig.dev.json
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\teste2\LivrosApp\bin\Debug\netcoreapp2.2\LivrosApp.dll
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\teste2\LivrosApp\bin\Debug\netcoreapp2.2\LivrosApp.pdb
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\teste2\LivrosApp\obj\Debug\netcoreapp2.2\LivrosApp.csprojAssemblyReference.cache
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\teste2\LivrosApp\obj\Debug\netcoreapp2.2\LivrosApp.csproj.CoreCompileInputs.cache
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\teste2\LivrosApp\obj\Debug\netcoreapp2.2\LivrosApp.RazorAssemblyInfo.cache
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\teste2\LivrosApp\obj\Debug\netcoreapp2.2\LivrosApp.RazorAssemblyInfo.cs
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\teste2\LivrosApp\obj\Debug\netcoreapp2.2\LivrosApp.AssemblyInfoInputs.cache
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\teste2\LivrosApp\obj\Debug\netcoreapp2.2\LivrosApp.AssemblyInfo.cs
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\teste2\LivrosApp\obj\Debug\netcoreapp2.2\LivrosApp.RazorTargetAssemblyInfo.cache
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\teste2\LivrosApp\obj\Debug\netcoreapp2.2\LivrosApp.dll
+C:\xampp5\htdocs\projetos\pos_graduacao\4 -  APIs e Web Services\resolucao exercicio\teste2\LivrosApp\obj\Debug\netcoreapp2.2\LivrosApp.pdb
